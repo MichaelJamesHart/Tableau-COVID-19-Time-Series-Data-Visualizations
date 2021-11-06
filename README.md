@@ -1,5 +1,5 @@
 # Tableau-COVID-19-Time-Series-Data-Visualizations
- Tableau data visualizations for COVID-19 in East-Asia and Southeast Asia.
+ Tableau data visualizations for COVID-19 cases in East-Asia and Southeast Asia.
  
 I explored the Tableau COVID-19 dataset for East-Asia and Southeast Asia to compare and contrast the rates of the spread of the virus in different countries.
 
